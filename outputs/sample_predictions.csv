@@ -1,0 +1,76 @@
+﻿sample_id,text,category,predicted_category,correct_prediction
+CS-0287,I would like to report limited availability of medical staff. The situation is disappointing for residents. Immediate assessment is needed because public safety may be affected.,Health,Health,True
+CS-0481,I would like to report lack of information about public services. Residents are dissatisfied with the current situation. Please escalate this matter for urgent action.,General,General,True
+CS-0115,I would like to report damaged public power infrastructure. This problem is affecting everyday activities. Please arrange an inspection in a reasonable time.,Electricity,Electricity,True
+CS-0232,I would like to report blocked drainage systems. This ongoing problem is causing frustration. Please arrange an inspection in a reasonable time.,Sanitation,Sanitation,True
+CS-0349,I would like to report lack of educational resources. Thank you for addressing this matter. It requires urgent attention due to its serious impact.,Education,Education,True
+CS-0471,I would like to report delays in public service responses. This matter is being brought to your attention. Immediate assessment is needed because public safety may be affected.,General,General,True
+CS-0391,I would like to report lack of traffic management. I would like to report this situation. This suggestion can be reviewed during regular maintenance.,Traffic,Traffic,True
+CS-0360,I would like to report poor maintenance of public schools. The service has shown positive progress. It requires urgent attention due to its serious impact.,Education,Education,True
+CS-0035,I would like to report poor road maintenance. This problem is affecting everyday activities. It would be helpful to include this in future planning.,Roads / Infrastructure,Roads / Infrastructure,True
+CS-0100,I would like to report frequent power outages. This problem is affecting everyday activities. It requires urgent attention due to its serious impact.,Electricity,Electricity,True
+CS-0295,I would like to report long waiting times at public hospitals. This matter is being brought to your attention. Please arrange an inspection in a reasonable time.,Health,Health,True
+CS-0078,I would like to report unstable electricity supply. The recent response has been satisfactory. Immediate assessment is needed because public safety may be affected.,Electricity,Electricity,True
+CS-0419,I would like to report poorly managed traffic signals. Please review the reported condition. Please arrange an inspection in a reasonable time.,Traffic,Traffic,True
+CS-0138,I would like to report water quality concerns. The current situation requires an assessment. Immediate assessment is needed because public safety may be affected.,Water Supply,Water Supply,True
+CS-0145,I would like to report water quality concerns. Thank you for addressing this matter. This issue needs attention to prevent further inconvenience.,Water Supply,Water Supply,True
+CS-0378,I would like to report unsafe pedestrian crossings. I appreciate the efforts made so far. Please arrange an inspection in a reasonable time.,Traffic,Traffic,True
+CS-0043,I would like to report poor road maintenance. This ongoing problem is causing frustration. This issue needs attention to prevent further inconvenience.,Roads / Infrastructure,Roads / Infrastructure,True
+CS-0359,I would like to report lack of educational resources. Residents are dissatisfied with the current situation. This suggestion can be reviewed during regular maintenance.,Education,Education,True
+CS-0109,I would like to report damaged public power infrastructure. This matter is being brought to your attention. Immediate assessment is needed because public safety may be affected.,Electricity,Electricity,True
+CS-0464,I would like to report general public service concerns. Please record this issue for review. Please consider this during routine service improvements.,General,General,True
+CS-0007,I would like to report damaged road surfaces. The situation is disappointing for residents. Immediate assessment is needed because public safety may be affected.,Roads / Infrastructure,Roads / Infrastructure,True
+CS-0371,I would like to report shortage of classroom facilities. The current situation requires an assessment. It would be helpful to include this in future planning.,Education,Education,True
+CS-0171,I would like to report water leakage in public pipelines. The current situation requires an assessment. A timely response would help resolve the matter.,Water Supply,Water Supply,True
+CS-0413,I would like to report poor public transport coordination. This problem is affecting everyday activities. Please arrange an inspection in a reasonable time.,Traffic,Traffic,True
+CS-0210,I would like to report blocked drainage systems. The issue has not been resolved properly. A timely response would help resolve the matter.,Sanitation,Sanitation,True
+CS-0131,I would like to report irregular water supply. Please review the reported condition. It requires urgent attention due to its serious impact.,Water Supply,Electricity,False
+CS-0247,I would like to report uncollected garbage. This matter is being brought to your attention. This issue needs attention to prevent further inconvenience.,Sanitation,Sanitation,True
+CS-0205,I would like to report overflowing public waste bins. This matter is being brought to your attention. Please escalate this matter for urgent action.,Sanitation,Sanitation,True
+CS-0289,I would like to report delays in healthcare services. The recent response has been satisfactory. It requires urgent attention due to its serious impact.,Health,Health,True
+CS-0002,I would like to report potholes on the main road. I appreciate the efforts made so far. Please consider this during routine service improvements.,Roads / Infrastructure,Roads / Infrastructure,True
+CS-0217,I would like to report unclean public streets. Please review the reported condition. Immediate assessment is needed because public safety may be affected.,Sanitation,Sanitation,True
+CS-0126,I would like to report frequent power outages. The issue has not been resolved properly. Immediate assessment is needed because public safety may be affected.,Electricity,Electricity,True
+CS-0257,I would like to report shortage of basic medical facilities. Please review the reported condition. It would be helpful to include this in future planning.,Health,Health,True
+CS-0254,I would like to report delays in healthcare services. The recent improvements have been helpful. This suggestion can be reviewed during regular maintenance.,Health,Health,True
+CS-0459,I would like to report lack of information about public services. The recent improvements have been helpful. Please escalate this matter for urgent action.,General,General,True
+CS-0500,I would like to report general public service concerns. Please review the reported condition. This issue needs attention to prevent further inconvenience.,General,General,True
+CS-0270,I would like to report limited availability of medical staff. The service has shown positive progress. Please arrange an inspection in a reasonable time.,Health,Health,True
+CS-0383,I would like to report unsafe pedestrian crossings. The current situation requires an assessment. Please arrange an inspection in a reasonable time.,Traffic,Traffic,True
+CS-0363,I would like to report poor maintenance of public schools. The recent response has been satisfactory. This suggestion can be reviewed during regular maintenance.,Education,Education,True
+CS-0034,I would like to report damaged road surfaces. I would like to report this situation. This issue needs attention to prevent further inconvenience.,Roads / Infrastructure,Roads / Infrastructure,True
+CS-0066,I would like to report electricity service interruptions. Thank you for addressing this matter. Please escalate this matter for urgent action.,Electricity,Electricity,True
+CS-0011,I would like to report damaged road surfaces. The current situation requires an assessment. It would be helpful to include this in future planning.,Roads / Infrastructure,Roads / Infrastructure,True
+CS-0010,I would like to report poor road maintenance. This problem is affecting everyday activities. Immediate assessment is needed because public safety may be affected.,Roads / Infrastructure,Roads / Infrastructure,True
+CS-0389,I would like to report poorly managed traffic signals. Please record this issue for review. A timely response would help resolve the matter.,Traffic,Traffic,True
+CS-0026,I would like to report broken streetlights. Please record this issue for review. Please arrange an inspection in a reasonable time.,Roads / Infrastructure,Roads / Infrastructure,True
+CS-0348,I would like to report damaged school buildings. The current situation requires an assessment. Please arrange an inspection in a reasonable time.,Education,Education,True
+CS-0179,I would like to report irregular water supply. The recent response has been satisfactory. Please arrange an inspection in a reasonable time.,Water Supply,Water Supply,True
+CS-0214,I would like to report poor waste management. I appreciate the efforts made so far. It requires urgent attention due to its serious impact.,Sanitation,Sanitation,True
+CS-0241,I would like to report uncollected garbage. The current situation requires an assessment. This suggestion can be reviewed during regular maintenance.,Sanitation,Sanitation,True
+CS-0128,I would like to report shortage of clean drinking water. Please review the reported condition. It would be helpful to include this in future planning.,Water Supply,Water Supply,True
+CS-0468,I would like to report general public service concerns. The service has shown positive progress. This suggestion can be reviewed during regular maintenance.,General,General,True
+CS-0446,I would like to report difficulty accessing government services. The recent response has been satisfactory. It requires urgent attention due to its serious impact.,General,General,True
+CS-0286,I would like to report delays in healthcare services. The service has shown positive progress. Immediate assessment is needed because public safety may be affected.,Health,Health,True
+CS-0494,I would like to report difficulty accessing government services. Please review the reported condition. It requires urgent attention due to its serious impact.,General,General,True
+CS-0374,I would like to report limited classroom equipment. Please record this issue for review. This issue needs attention to prevent further inconvenience.,Education,Education,True
+CS-0262,I would like to report poor cleanliness in public clinics. This problem is affecting everyday activities. Please arrange an inspection in a reasonable time.,Health,Health,True
+CS-0415,I would like to report poor public transport coordination. This problem is affecting everyday activities. It would be helpful to include this in future planning.,Traffic,Traffic,True
+CS-0317,I would like to report lack of educational resources. Residents are dissatisfied with the current situation. This issue needs attention to prevent further inconvenience.,Education,Education,True
+CS-0405,I would like to report poorly managed traffic signals. Please review the reported condition. A timely response would help resolve the matter.,Traffic,Traffic,True
+CS-0340,I would like to report poor maintenance of public schools. The issue has not been resolved properly. This suggestion can be reviewed during regular maintenance.,Education,Education,True
+CS-0276,I would like to report long waiting times at public hospitals. Please review the reported condition. A timely response would help resolve the matter.,Health,Health,True
+CS-0069,I would like to report damaged public power infrastructure. The recent improvements have been helpful. Please escalate this matter for urgent action.,Electricity,Electricity,True
+CS-0197,I would like to report unclean public streets. The situation is disappointing for residents. It would be helpful to include this in future planning.,Sanitation,Sanitation,True
+CS-0409,I would like to report unsafe pedestrian crossings. Please record this issue for review. Please consider this during routine service improvements.,Traffic,Traffic,True
+CS-0123,I would like to report low voltage in residential areas. I appreciate the efforts made so far. A timely response would help resolve the matter.,Electricity,Electricity,True
+CS-0439,I would like to report lack of information about public services. Please record this issue for review. Immediate assessment is needed because public safety may be affected.,General,General,True
+CS-0031,I would like to report broken streetlights. The service has shown positive progress. It would be helpful to include this in future planning.,Roads / Infrastructure,Roads / Infrastructure,True
+CS-0101,I would like to report electricity service interruptions. The situation is disappointing for residents. Please escalate this matter for urgent action.,Electricity,Electricity,True
+CS-0222,I would like to report overflowing public waste bins. This problem is affecting everyday activities. Please escalate this matter for urgent action.,Sanitation,Sanitation,True
+CS-0218,I would like to report blocked drainage systems. The situation is disappointing for residents. A timely response would help resolve the matter.,Sanitation,Sanitation,True
+CS-0141,I would like to report shortage of clean drinking water. Please review the reported condition. Immediate assessment is needed because public safety may be affected.,Water Supply,Water Supply,True
+CS-0174,I would like to report shortage of clean drinking water. This matter is being brought to your attention. Please consider this during routine service improvements.,Water Supply,Water Supply,True
+CS-0160,I would like to report irregular water supply. Thank you for addressing this matter. Please arrange an inspection in a reasonable time.,Water Supply,Water Supply,True
+CS-0299,I would like to report shortage of basic medical facilities. The issue has not been resolved properly. Immediate assessment is needed because public safety may be affected.,Health,Health,True
+CS-0005,I would like to report damaged road surfaces. Residents are dissatisfied with the current situation. Immediate assessment is needed because public safety may be affected.,Roads / Infrastructure,Roads / Infrastructure,True

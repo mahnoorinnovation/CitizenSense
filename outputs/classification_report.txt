@@ -1,0 +1,18 @@
+BASELINE MODEL: TF-IDF + LOGISTIC REGRESSION
+
+Test Accuracy: 0.9867
+
+                        precision    recall  f1-score   support
+
+             Education       1.00      1.00      1.00         9
+           Electricity       0.90      1.00      0.95         9
+               General       1.00      1.00      1.00         9
+                Health       1.00      1.00      1.00        10
+Roads / Infrastructure       1.00      1.00      1.00        10
+            Sanitation       1.00      1.00      1.00        10
+               Traffic       1.00      1.00      1.00         9
+          Water Supply       1.00      0.89      0.94         9
+
+              accuracy                           0.99        75
+             macro avg       0.99      0.99      0.99        75
+          weighted avg       0.99      0.99      0.99        75
