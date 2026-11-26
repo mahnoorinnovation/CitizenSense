@@ -214,3 +214,9 @@ CitizenSense demonstrates how Natural Language Processing and Machine Learning c
 **Project:** CitizenSense — NLP-Based Public Feedback Classification and Insight System  
 **Internship:** AIRI Team PITB AI Internship  
 **Status:** Development and evaluation stage
+
+## 13. Project Links
+
+- **GitHub Repository:** https://github.com/mahnoorinnovation/CitizenSense
+- **Live Streamlit Dashboard:** https://citizensense-hae5xfzbtnar2wq9tka4x2.streamlit.app/
+
